@@ -1,6 +1,6 @@
 # Crystals-Number-Game #
 
-A simple Harry Potter themed trivia game.
+A numbers and memory game.
 
 ![Crystals-Number-Game](./assets/images/Crystal-Game.png)
 
